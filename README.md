@@ -1,9 +1,9 @@
 # Waveshare-2.13-Pico-Micropython-Landscape
 A way to display text horizontally on the 2.13 waveshare e-paper display for Raspberry Pico 
 
--------------------------------------------------------------------------------------------------
-**Please mind: although I program, I am not a professional programmer (warning for bad coding).**
--------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
+**Please mind: although I program, I am not a professional programmer.**
+-------------------------------------------------------------------------
 
 This project is for me a dive into Python (wow - how mistaken I was) in combination with the 2.13 inch Waveshare E-paper HAT for the Raspberry Pico. 
 With this E-paper hat there is no (Micropython) example given to use it in Landscape mode. After consulting Waveshare they responded that it has not been made (yet).
